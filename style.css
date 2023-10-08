@@ -22,11 +22,11 @@ h1 {
   filter: brightness(30%);
 }
 
-header {
+/* header {
   min-height: 100vh;
   display: grid;
   place-items: center;
-}
+} */
 
 .preloader {
   position: fixed;
