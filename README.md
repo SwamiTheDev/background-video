@@ -5,10 +5,7 @@
 # Background Video 🎥
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/SwamiTheDev/background-video/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/SwamiTheDev/background-video.svg?style=social)](https://github.com/SwamiTheDev/background-video/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/SwamiTheDev/background-video.svg?style=social)](https://github.com/SwamiTheDev/background-video/network)
-[![GitHub issues](https://img.shields.io/github/issues/SwamiTheDev/background-video.svg)](https://github.com/SwamiTheDev/background-video/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/SwamiTheDev/background-video.svg)](https://github.com/SwamiTheDev/background-video/pulls)
+ 
 
 A captivating background video that runs in a loop and showcases your top details on the screen with a responsive UI.
 
@@ -18,10 +15,7 @@ A captivating background video that runs in a loop and showcases your top detail
 ## Live Demo
 👉 [Check out the live demo](https://livebackground-swamithedev.vercel.app/)
 
-## Screenshots
-![Screenshot 1](https://your-screenshot-url.com)
-![Screenshot 2](https://your-screenshot-url.com)
-
+ 
 ## Features
 - Stunning background video that adds a dynamic touch to your web page.
 - Display your top details in an elegant and responsive user interface.
@@ -49,7 +43,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
 - GitHub: [SwamiTheDev](https://github.com/SwamiTheDev)
-- Email: your.email@example.com
+- Portfolio : [swamithedev.vercel.app](https://swamithedev.vercel.app)
+- Email: swamithedev@gmail.com
 
 ---
 
